@@ -16,7 +16,7 @@ module.exports = ({ env }) => ({
       ],
     },
     settings: {
-      keys: env.array('APP_KEYS', ['f50c6878d7cea063126c0fbcdad42bab5ff9e9af501f4505ee5fcf61c727f0c7']),
+      keys: env.array('APP_KEYS', ['f50c6878d7cea063126c0fbcdad42bab5ff9e9af501f4505ee5fcf61c727f0c7', 'k50c6878d7cea063126c0fbcdad42bab5ff9e9af501f4505ee5fcf61c727f0c7']),
     },
     // ...
   },
