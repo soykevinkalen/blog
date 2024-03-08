@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bootcamps",
+  "info": {
+    "singularName": "bootcamp",
+    "pluralName": "bootcamps",
+    "displayName": "bootcamp"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
