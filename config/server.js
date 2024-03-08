@@ -16,7 +16,7 @@ module.exports = ({ env }) => ({
       ],
     },
     settings: {
-      keys: ['one', 'two']
+      keys: ['FQQ9mJkAgXqmIbqNfdCofw==,pXqLdzCdbhwhkZmL9bF/zg==,PipqnvdVSHYWtodU8AiNag==,OnEEjlKgnytF6Tw/pxFRhw==']
     },
     // ...
   },
